@@ -39,12 +39,6 @@ ggplot(ins.curr,aes(x = Var1,y =Freq,color = Var2))+geom_point()+theme(axis.text
 ```
 
 
-##Regression
-
-```{r}
-
-```
-
 
 
 

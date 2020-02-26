@@ -1,0 +1,33 @@
+---
+title: "EDA of IPO data"
+author: "Xinyao Wu"
+date: "2/25/2020"
+output: 
+  html_document:
+        code: hide
+        toc: TRUE
+        toc_float: TRUE
+        theme: lumen
+---
+
+```{r include=FALSE}
+library(tidyverse)
+```
+
+#Exploratory Data Analysis
+
+```{r}
+ipo = readxl::read_excel("data/2018 IPO in China & US(final).xlsx",sheet = 1,col_names = T)
+colnames(ipo)=ipo[1,]
+ipo = ipo[-1,] %>% janitor::clean_names()
+dim(ipo)
+```
+
+ The IPO China dataset has 325 rows and 14 columns
+
+
+
+
+
+
+

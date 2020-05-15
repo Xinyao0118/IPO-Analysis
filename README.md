@@ -19,6 +19,7 @@ The dataset includes over 500 records among two sheets (U.S and China) in excel 
 
 Tableau <br>
 R <br>
+Python <br>
 Linear regression <br>
 logistic regression <br>
 SVM <br>

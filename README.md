@@ -27,6 +27,27 @@ Adaboost <br>
 
 ## Visualization
 
+![](./image/bank.png)
+
+*	The top3 welcomed industries for initial public offering in China are: Information Technology, Building Decoration, Medical Biology. Those followed with Finance, Electronics, Real Estate, Light manufacturing, and car, which account for 50% of the total count of IPO in China.
+*	In U.S., the IPO pool collects fewer industries. The dominant position was taken by Health Care, which accounts for nearly 40%.
+*	For combination IPO counts of U.S. and China, effected by the dominant industry of U.S, healthcare has the most frequency. Thus, this trend cannot be utilized in China, based on the importance difference on healthcare industry. However, industries like IT and Financial, take important roles in both U.S. and China, which indicates the stable development of IPO in these industries.
+<br>
+<br>
+
+![](./image/exchange.jpg)
+
+*	Hong Kong Exchanges and Clearing Limited accounts for 39%, followed by NASDAQ, which takes 26 percentage of the total exchanges.
+<br>
+<br>
+
+![industry](./image/industry.png)
+
+*	New York and San Francisco, Cambridge is the top3 city in U.S for IPO.
+*	China performs better than U.S in terms of IPO based on location distribution of business.
+
+
+
 
 ## Analysis
 

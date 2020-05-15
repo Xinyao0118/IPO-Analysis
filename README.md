@@ -60,7 +60,6 @@ The original data names __*2018 IPO in China & US(final)*__ in data folder. Howe
 
 The analyses for China and U.S were conducted seperately.
 
-
 ### 2. Missing value
 
 

@@ -56,6 +56,10 @@ Adaboost <br>
 
 ### 1. Dataset
 
+The original data names __*2018 IPO in China & US(final)*__ in data folder. However, unicode encoding issues exist in some strings in some text cells. So I cleaned the data with Excel and united the currency by __Vlookup__ in Excel. The cleaned data names __*2018 IPO_trans+pe*__. <br>
+
+The analyses for China and U.S were conducted seperately.
+
 
 ### 2. Missing value
 

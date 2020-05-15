@@ -54,6 +54,19 @@ Adaboost <br>
 
 ## Analysis
 
+### 1. Dataset
+
+
+### 2. Missing value
+
+
+### 3. Feature engineering
+
+
+### 4. Create models
+
+
+### 5. Make predictions
 
 
 

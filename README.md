@@ -41,13 +41,15 @@ Adaboost <br>
 <br>
 <br>
 
-![industry](./image/industry.png)
+![](./image/industry.png)
 
 *	New York and San Francisco, Cambridge is the top3 city in U.S for IPO.
 *	China performs better than U.S in terms of IPO based on location distribution of business.
 
 
+![](./image/loc.jpg)
 
+*	Hong Kong, Beijing, Shanghai are the 3 hottest location for business in China.
 
 ## Analysis
 
